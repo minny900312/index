@@ -82,6 +82,7 @@ aside img {
     width: 250;
     height: 329;
     position: relative;
+    box-shadow: grey 7px 7px 10px 0px;
 }
 
 /*聯絡方式*/
@@ -164,6 +165,7 @@ progress {
     width: 100%;
     vertical-align: middle;
     border-radius: 20px;
+    box-shadow: grey 7px 7px 10px 0px;
 }
 
 .major .txt {
@@ -175,6 +177,7 @@ progress {
     padding: 10px;
     border-radius: 20px;
     background-color: rgba(0, 0, 0, 0.6);
+    box-shadow: grey 7px 7px 10px 0px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -232,6 +235,8 @@ progress {
     flex-shrink: 0;
     width: 52%;
     margin: 10px;
+    border-radius: 20px;
+    box-shadow: grey 7px 7px 10px 0px;
 }
 
 .experience img {
@@ -248,6 +253,7 @@ progress {
     flex-shrink: 0;
     padding: 15px;
     border-radius: 10px;
+    box-shadow: grey 7px 7px 10px 0px;
     align-items: center;
     box-sizing: border-box;
     position: relative;
